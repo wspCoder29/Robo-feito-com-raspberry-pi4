@@ -1,1 +1,4 @@
+Esse comando deve ser utilizado para inicializar o mpeg streamer previamente instalado no raspberri pi:
+https://forums.raspberrypi.com/viewtopic.php?t=48597
+
 /usr/local/bin/mjpg_streamer -i "input_uvc.so -y 640x480 -d /dev/video0 -f 24 -q 80" -o "output_http.so -p 8080 -w /usr/local/share/mjpg-streamer/www"&

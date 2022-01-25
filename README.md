@@ -17,8 +17,5 @@ Laser rangefinder.
 
 Não foram usados kits, apenas coisas aleatórias, cola quente e "macaroni code"
 
-[Vídeo onde mostro o funcionamento e explico como o projeto funciona] (https://www.youtube.com/watch?v=jw4dmACfz48)
-
-
-[Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48 "link title")
+[Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48)
 

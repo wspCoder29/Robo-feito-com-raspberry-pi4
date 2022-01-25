@@ -6,6 +6,15 @@ Características:
 
 -Capacidade de enviar e gravar vídeo em tempo real
 
+O que aprendi com esse projeto:
+* Eletrônica
+* 
+* Soldagem
+
+* Como testar individualmente e em conjunto diversos componentes tais como:
+Motores DC, Servo motoroes, uso de câmera através do barramento do Raspberry pi4,
+Laser rangefinder.
+
 Não foram usados kits, apenas coisas aleatórias, cola quente e "macaroni code"
 
-[Vídeo mostrando funcionamento e parte da montagem] (https://www.youtube.com/watch?v=jw4dmACfz48)
+[Vídeo onde mostro o funcionamento e explico como o projeto funciona] (https://www.youtube.com/watch?v=jw4dmACfz48)

@@ -8,11 +8,11 @@ Características:
 
 O que aprendi com esse projeto:
 * Eletrônica
-* 
+
 * Soldagem
 
 * Como testar individualmente e em conjunto diversos componentes tais como:
-Motores DC, Servo motoroes, uso de câmera através do barramento do Raspberry pi4,
+Motores DC, Servo motoroes, uso de câmera através do barramento do Raspberry pi4 e
 Laser rangefinder.
 
 Não foram usados kits, apenas coisas aleatórias, cola quente e "macaroni code"

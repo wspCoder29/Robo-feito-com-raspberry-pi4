@@ -15,7 +15,7 @@ O que aprendi com esse projeto:
 Motores DC, Servo motoroes, uso de câmera através do barramento do Raspberry pi4 e
 Laser rangefinder.
 
-Não foram usados kits, apenas coisas aleatórias, cola quente e "macaroni code"
+Não foram usados kits, apenas coisas aleatórias, cola quente e "perseverance"
 
 [Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48)
 

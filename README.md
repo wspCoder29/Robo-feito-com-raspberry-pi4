@@ -1,5 +1,7 @@
 # Meu projeto: Robô de telepresença - Usando Raspberry pi 4
 Projeto feito com raspberry pi 4 - Um robô de telepresença inspirado no robô Perseverance da NASA que está em Marte.
+[Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48)
+
 Características:
 
 -Controle em real time via internet
@@ -17,5 +19,5 @@ Laser rangefinder.
 
 Não foram usados kits, apenas coisas aleatórias, cola quente e "perseverance"
 
-[Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48)
+
 

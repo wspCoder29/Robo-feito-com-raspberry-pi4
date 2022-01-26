@@ -1,4 +1,4 @@
-# Robo-feito-com-raspberry-pi4
+# Meu projeto: Robô de telepresença - Usando Raspberry pi 4
 Projeto feito com raspberry pi 4 - Um robô de telepresença inspirado no robô Perseverance da NASA que está em Marte.
 Características:
 

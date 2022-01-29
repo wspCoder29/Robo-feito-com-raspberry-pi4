@@ -10,7 +10,7 @@ Características:
 -Capacidade de enviar e gravar vídeo em tempo real
 
 Objetivos
-- O objetivo deste projeto foi recreativo, construir pequenos projetos robóticos com microcontroladores (Arduino, ESP8266 etc) e  Raspberry pi é um hobby.
+- O objetivo deste projeto foi recreativo, construir pequenos projetos robóticos com microcontroladores (Arduino, ESP8266 etc) e  Raspberry pi é meu hobby.
 
 O que aprendi com esse projeto:
 * Eletrônica

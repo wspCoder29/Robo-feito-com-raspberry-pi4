@@ -24,4 +24,6 @@ Laser rangefinder.
 Não foram usados kits, apenas coisas aleatórias, cola quente e "perseverance"
 
 
+<img src=Robo-Leandro.jpg width="500">
+
 

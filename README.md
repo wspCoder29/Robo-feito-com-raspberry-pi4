@@ -25,6 +25,6 @@ Não foram usados kits, apenas coisas aleatórias, cola quente e "perseverance"
 
 <img src=robotoGif.gif width="500">
 
-//<img src=Robo-Leandro.jpg width="500">
+<img src=Robo-Leandro.jpg width="500">
 
 

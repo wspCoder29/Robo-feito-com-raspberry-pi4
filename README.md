@@ -18,7 +18,7 @@ O que aprendi com esse projeto:
 * Soldagem
 
 * Como testar individualmente e em conjunto diversos componentes tais como:
-Motores DC, Servo motoroes, uso de câmera através do barramento do Raspberry pi4 e
+Motores DC, Servo motores, uso de câmera através do barramento do Raspberry pi4 e
 Laser rangefinder.
 
 Não foram usados kits, apenas coisas aleatórias, cola quente e "perseverance"

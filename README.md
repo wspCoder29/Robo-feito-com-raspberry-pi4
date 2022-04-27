@@ -3,6 +3,8 @@ Projeto feito com raspberry pi 4 - Um robô de telepresença inspirado no robô 
 
 [Vídeo onde mostro o funcionamento e explico como o projeto funciona](https://www.youtube.com/watch?v=jw4dmACfz48)
 
+[Teste de controle](https://youtube.com/shorts/miPWbh4X_sI?feature=share)
+
 Características:
 
 -Controle em real time via internet

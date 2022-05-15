@@ -33,8 +33,6 @@ def look(pos): # control servo 1
     sleep(0.01)
     
 
-
-
 #MOTOR A ==========================
 #MOTOR Direito
 #Pinos no l298n - raspberri pi
@@ -70,9 +68,6 @@ pB=GPIO.PWM(en2,1000)
 #potência na ativação
 pB.start(30)
 
-
-
-        
         
 def FRENTE():
         #Motor Esquerdo
@@ -134,8 +129,7 @@ def GOBACK():
     GPIO.output(inE1,GPIO.LOW)
     GPIO.output(inE2,GPIO.LOW)
     
-    
-    
+        
 def TLEFT():
         #ME
     pB.ChangeDutyCycle(35)
@@ -156,8 +150,6 @@ def TLEFT():
     GPIO.output(inE2,GPIO.LOW)
     
 
-
-
 def TRIGHT():
         #ME
     pB.ChangeDutyCycle(35)
@@ -177,9 +169,7 @@ def TRIGHT():
     GPIO.output(inE1,GPIO.LOW)
     GPIO.output(inE2,GPIO.LOW)
 #=======================================RE=
-    
-
-
+  
 def TRIGHTHYPER():
         #ME
     pB.ChangeDutyCycle(70)
@@ -199,15 +189,6 @@ def TRIGHTHYPER():
     GPIO.output(inE1,GPIO.LOW)
     GPIO.output(inE2,GPIO.LOW)
 #=======================================RE=
-
-
-
-
-
-
-
-
-
 
 while True:
     for eve in pygame.event.get():pass
